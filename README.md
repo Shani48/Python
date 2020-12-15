@@ -1,2 +1,2 @@
 # Python
-Repository to store sample python programs for python learning to improve coding.
+Repository to store sample python programs for python learning to improve coding skills.
