@@ -9,3 +9,15 @@ Description
 3.Store your first, middle and last name in three different variables and then print your full name using these variables.
 
 4.Answer which of these are invalid variable names: _nation 1record record1 record_one record-one record^one continue.
+
+                            ########## First Example ############################
+![firstprogramme](https://user-images.githubusercontent.com/35404965/102339008-62da3f00-3fb6-11eb-8be4-682494688cf9.PNG)
+
+                           ########## Second Example #############################
+![2ndexample](https://user-images.githubusercontent.com/35404965/102339192-a0d76300-3fb6-11eb-9c10-95821cfc8fa8.PNG)
+
+                           ######### Third Example ###############################
+![3rdexample](https://user-images.githubusercontent.com/35404965/102339340-d67c4c00-3fb6-11eb-8b5b-1198b8e2263b.PNG)
+                           ######### Fourth Example #############################
+![4thexample](https://user-images.githubusercontent.com/35404965/102339386-e4ca6800-3fb6-11eb-8387-7e40aed2c007.PNG)
+                           
